@@ -5,6 +5,5 @@
     "documentation": "https://github.com/lachand/home-assistant-gazmodem",
     "requirements": [],
     "dependencies": [],
-    "codeowners": ["@lachand"],
-    "config_flow": true
+    "codeowners": ["@lachand"]
 }
