@@ -1,0 +1,10 @@
+{
+    "domain": "gazmodem",
+    "name": "GazModem Sensor",
+    "version": "1.0",
+    "documentation": "https://github.com/lachand/home-assistant-gazmodem",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@lachand"],
+    "config_flow": true
+}
