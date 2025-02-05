@@ -1,0 +1,8 @@
+{
+    "name": "GazModem",
+    "domain": "gazmodem",
+    "homeassistant": "2023.1.0",
+    "render_readme": true,
+    "country": "FR",
+    "filename": "custom_components/gazmodem/manifest.json"
+}
